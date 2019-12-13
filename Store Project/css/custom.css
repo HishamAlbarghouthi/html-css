@@ -1,0 +1,56 @@
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active{
+	margin-left: 350px;
+}
+.jumbotron{
+	height: 500px;
+	    background: #001d3d;
+	    background-image: url("back4.jpg");
+	    background-repeat: no-repeat;
+	    background-size: 100%;
+
+}
+.link1:hover{
+	text-decoration: none;
+	color: black;
+}
+.link2{
+	font-size: 13px;
+}
+.link2:hover{
+	text-decoration: none;
+}
+.ml-2, .mx-2 {
+    margin-left: 11.5rem !important;
+}
+.div1{
+	background-color: #F8F8FF;	
+}
+.hr1{
+	margin-right: 250px;
+	margin-left: 150px;
+}
+.col-6 .brandImg{
+	margin-top: 100px;
+
+}
+.col-6 .brandImg2{
+	margin-left: 50px;
+	position: absolute;
+	top: 100px;
+}
+.pp{
+	padding-bottom: 50px;
+}
+.brand6{
+	border-left: 1px solid black;
+}
+.div2{
+	margin-bottom: 150px;	
+}
+.sale1{
+	text-decoration: line-through;
+	
+}
+.sale2{
+	display: inline;
+}
